@@ -45,4 +45,4 @@ Results in terminal:
 
 ## Some additional tools
 
-If you have an xlxs file of noun data and classes and need to create the 80% training and 20% testing sets then you can use /distributionTools/distrubuteDataset.py and distributionCheck.py to create and then ensure they are distributed correctly.
+If you have an xlxs file of noun data and classes and need to create the 80% training and 20% testing sets then you can use /distributionTools/distrubuteDataset.py and distributionCheck.py to create and then ensure they are distributed correctly. These have to be edited manually and reference the datasets in /data/coredatasets
