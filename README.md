@@ -3,8 +3,8 @@
 Evaluating a Morphosyntactic Approach to Noun Classification for Sepedi and isiZulu.
 Code from our cs honours project, investigating the use of an approximation of morphosyntax through the use of charachter n-grams in various variations to classify nouns into noun classes.
 
-Models are to be trained on the noun data and associated class labels i.e abantu: 2 to then classify unseen nouns.
-The datasets used in our paper has been redacted since it is not publically available.
+Models are to be trained on the noun data and associated class labels i.e abantu: 2, to then classify unseen nouns.
+The datasets used in our paper have been redacted since it is not publically available.
 
 Models are trained on the fly, to allow for the mass testing and continued testing of model variations.
 Models created and tested included the following.
