@@ -17,7 +17,7 @@ Where the normal classifcation model variant is trained on a single class noun d
 ## How To Use 
 
 > [!IMPORTANT]
-> Before using these models, you need to add your own traning and testing .xlxs sets in the format of [noun] | [class].<br/>
+> Before using these models, you need to add your own traning and testing .xlxs sets in the format of coloumn 1 -> noun |  coloumn 2 -> class].<br/>
 > You can do this by adding your own noun data to the empty xlsx files located in the /data/[datatype]/data files.<br/>
 > You can use a different language but please note this is setup for the testing of Sepedi and isiZulu and may cause naming issues.
 
